@@ -1,16 +1,18 @@
 # 👋 Hi, I'm Hozhalan
 
-## Senior QA Engineer | AI-Driven Quality Engineering | Test Automation | Software Quality
+## Senior QA Engineer | AI-Driven Quality Engineering | Test Automation
 
-I'm an **ISTQB-certified Senior QA Engineer with 9+ years of experience** in software quality assurance and quality engineering, with a growing specialization in **AI-driven QA and modern quality engineering practices**.
+I'm an **ISTQB-certified Senior QA Engineer with 10+ years of experience** in software quality assurance and quality engineering, with a growing specialization in **AI-driven QA and modern quality engineering practices**.
 
-Throughout my career, I've worked across **web and mobile applications, API and backend testing, test automation, CI/CD, integration testing, cloud environments, observability, and production troubleshooting**.
+Over the years, I've worked across **web and mobile applications, API and backend testing, test automation, CI/CD, integration testing, cloud environments, observability, performance testing, and production monitoring and troubleshooting**.
 
-Today, my primary area of interest is the intersection of:
+More recently, I've been focusing heavily on **AI-driven QA and modern quality engineering practices**.
+
+I'm especially interested in the intersection of:
 
 **🤖 Artificial Intelligence × 🧪 Quality Engineering × ⚙️ Test Automation**
 
-I believe AI can significantly amplify the capabilities of QA engineers—not by replacing testing expertise, but by helping engineers **think deeper, explore more possibilities, automate intelligently, and investigate problems more effectively**.
+I see AI as a powerful tool for QA engineers. I don't see it as a replacement for testing expertise. Instead, I believe it can help us **explore more possibilities, automate repetitive work, investigate problems faster, and make better quality decisions**.
 
 ---
 
@@ -18,13 +20,13 @@ I believe AI can significantly amplify the capabilities of QA engineers—not by
 
 I'm particularly interested in applying AI throughout the software quality lifecycle—from **requirements analysis and risk identification to test automation, failure investigation, and production troubleshooting**.
 
-### Practical Areas I'm Exploring and Applying AI
+## How I'm Using and Exploring AI
 
 * 🧠 Requirements analysis and risk identification
 * 🧪 Test scenario and test case generation
 * 🔍 Edge-case and boundary-condition discovery
 * 🎲 Intelligent test-data generation
-* 🎭 Accelerating Playwright automation
+* 🎭 AI-assisted Playwright automation
 * 🔌 API test generation and validation
 * 🐛 Failure and defect analysis
 * 🔬 Root-cause investigation
@@ -35,25 +37,59 @@ I'm particularly interested in applying AI throughout the software quality lifec
 * 🚀 Faster test development and feedback
 * 🔗 Integrating AI into QA tools and engineering workflows
 
-### AI Tools & Technologies
+## AI Tools and Technologies
 
-**Claude · ChatGPT · Cursor · GitHub Copilot · MCP · CLI Tools**
+`Claude Code` `Codex (ChatGPT)` `GitHub Copilot` `Cursor` `MCP` `CLI Tools`
 
-I'm especially interested in moving beyond simply asking AI to **"write a test."**
+I've used AI-assisted development and testing tools to help with:
 
-The more important question is:
+* Intelligent test generation
+* Test automation development
+* Workflow automation
+* Test optimization
+* Failure investigation
+* Test maintenance
+* Code and framework refactoring
+* Improving engineering productivity
 
-> **How can AI help QA engineers make better quality decisions?**
+For me, AI is not just about asking:
+
+> *"Can you write this test for me?"*
+
+The more interesting question is:
+
+> **"How can AI help me think better about quality?"**
+
+---
+
+# 🧠 Testing AI-Driven Applications
+
+As more products start using AI, testing the AI itself is becoming an important part of modern quality engineering.
+
+I've explored **Promptfoo** and **DeepEval** for testing and evaluating AI-driven applications, with a focus on areas such as:
+
+* AI response quality
+* Evaluation and test coverage
+* Prompt behavior
+* Failure scenarios
+* Reliability and consistency
+* Risk identification
+* Regression evaluation
+* AI system quality
+
+I'm particularly interested in finding practical ways to test **AI-powered features** and understand their behavior across different scenarios.
+
+AI systems are often less predictable than traditional software, so I believe QA needs to evolve alongside them.
 
 ---
 
 # 🧪 Quality Engineering
 
-My approach to QA goes beyond simply finding defects.
+My approach to QA goes beyond simply finding bugs.
 
-I focus on **building quality into the product and development process from the beginning**.
+I believe quality should be considered **throughout the development process**, not just when a feature reaches the QA environment.
 
-### Core Areas of Experience
+## Areas I Work With
 
 * Quality engineering
 * Test strategy and planning
@@ -65,30 +101,32 @@ I focus on **building quality into the product and development process from the 
 * End-to-end testing
 * API and backend testing
 * Mobile testing
-* Production troubleshooting
+* Production monitoring and troubleshooting
 * Root-cause analysis
 * Test automation
 * CI/CD quality gates
 
-I believe QA should be involved throughout the entire software lifecycle—from **requirements and acceptance criteria to development, testing, deployment, and production**—rather than only at the end of development.
+I like being involved early, from **requirements and acceptance criteria through development, testing, deployment, and production**.
+
+The earlier we identify risks, the easier and cheaper they are to fix.
 
 ---
 
 # 🎭 AI + Test Automation
 
-I enjoy building automation that provides **fast, meaningful feedback without becoming a maintenance burden**.
+I enjoy building automation that provides **fast and useful feedback without becoming difficult to maintain**.
 
-### UI Automation
+## UI and Mobile Automation
 
-**Playwright · Selenium WebDriver · Cypress · Appium**
+`Playwright` `Selenium WebDriver` `Cypress` `Appium`
 
-I'm particularly interested in how AI can improve the complete automation lifecycle:
+I'm interested in improving the complete automation journey:
 
 **Requirement → Risk Analysis → Test Design → Automation → Execution → Failure Analysis → Maintenance**
 
-AI can accelerate each stage, but the overall automation strategy should still be driven by **product risk, business value, reliability, and maintainability**.
+AI can make many of these steps faster, but I still believe automation decisions should be based on **product risk, business value, reliability, and maintainability**.
 
-I prioritize automating scenarios that are:
+I usually prioritize automating scenarios that are:
 
 * Critical
 * Repetitive
@@ -96,81 +134,88 @@ I prioritize automating scenarios that are:
 * High-risk
 * Valuable for fast feedback
 
-At the same time, I believe **exploratory testing, investigation, and human judgment** remain essential where they provide greater value than automation.
+At the same time, I don't believe everything should be automated.
+
+**Exploratory testing, investigation, critical thinking, and human judgment** are still extremely important.
 
 ---
 
-# 🔌 API & Backend Testing
+# 🔌 API and Backend Testing
 
-### Technologies
+## Technologies
 
-**Postman · REST Assured · SuperTest · Swagger / OpenAPI**
+`Postman` `REST Assured` `SuperTest` `Grafana k6` `Swagger / OpenAPI`
+
+I have experience building robust API automation and validation solutions using **REST Assured with Java, Grafana k6, and Postman**.
 
 My API and backend testing experience includes:
 
 * REST API testing
-* CRUD validation
 * API automation
+* CRUD validation
 * Contract testing
 * Integration testing
 * Backend workflow validation
 * Data validation
 * End-to-end transaction testing
+* Negative testing
+* Boundary testing
+* API performance validation
 
-I'm also exploring how AI can help generate and analyze API scenarios, identify missing boundary conditions, transform test data, and investigate failures across distributed systems.
+For me, API testing isn't just about checking whether an endpoint returns **HTTP 200**.
 
-For me, API testing isn't simply about checking whether an endpoint returns **HTTP 200**.
-
-It's about understanding:
+I want to understand:
 
 **Business Rules + Data + Integrations + Dependencies + Failure Behavior**
 
+I'm also exploring how AI can help generate API scenarios, discover missing edge cases, create test data, and investigate failures across distributed systems.
+
 ---
 
-# ⚙️ Test Frameworks & Engineering
+# ⚙️ Test Frameworks and Engineering
 
-### Technologies
+## Technologies
 
-**TestNG · JUnit · Cucumber · BDD · Maven**
+`TestNG` `JUnit` `Cucumber` `BDD` `Maven`
 
-I choose frameworks and tools based on the **product, team, architecture, risks, technical requirements, and expected business value**.
+I choose frameworks and tools based on the **product, architecture, team, risks, technical requirements, and business value**.
 
 My goal is to build test solutions that are:
 
 **Maintainable · Scalable · Reliable · Readable · Fast**
 
-AI can accelerate implementation, but strong test architecture still requires **engineering judgment and a clear understanding of the system under test**.
+AI can help accelerate implementation, but good test architecture still requires **engineering judgment and a strong understanding of the system being tested**.
 
 ---
 
-# 🔄 CI/CD & AI-Assisted Quality Gates
+# 🔄 CI/CD and AI-Assisted Quality Gates
 
-Automated testing becomes significantly more valuable when it is integrated into the software delivery pipeline.
+Automation becomes much more valuable when it is part of the software delivery pipeline.
 
-### Technologies
+## Technologies
 
-**Git · GitHub · Bitbucket · GitLab · GitHub Actions  · Jenkins · CircleCI**
+`Git` `GitHub` `GitLab` `Bitbucket` `GitHub Actions` `Jenkins` `CircleCI`
 
-I focus on creating **fast feedback loops and meaningful quality gates** that help teams make informed release decisions.
+I focus on creating **fast feedback loops and meaningful quality gates** that help teams make better release decisions.
 
-I'm particularly interested in how AI can enhance CI/CD by helping teams:
+I'm particularly interested in how AI can help with CI/CD by:
 
-* Analyze failed pipelines
-* Cluster similar failures
-* Identify flaky tests
-* Summarize test results
-* Prioritize failures
-* Suggest potential root causes
-* Identify patterns across historical executions
-* Improve failure triage
+* Analyzing failed pipelines
+* Grouping similar failures
+* Identifying flaky tests
+* Summarizing test results
+* Prioritizing failures
+* Suggesting possible root causes
+* Finding patterns across historical executions
+* Improving failure triage
 
-The goal is not simply **more automation**.
+The goal isn't simply to have **more automation**.
 
-The goal is **better feedback and better engineering decisions**.
+The goal is to get **better feedback and make better engineering decisions**.
 
 ---
 
-# 🔍 Debugging & Observability
+# 🔍 Debugging and Observability
 
 When an automated test fails, I don't want the investigation to stop at:
 
@@ -178,19 +223,19 @@ When an automated test fails, I don't want the investigation to stop at:
 
 I want to understand:
 
-**Why did it fail?**
-**Where did it fail?**
-**What caused it?**
-**Is it a product defect, environment issue, test issue, or dependency failure?**
-**What is the potential impact on users?**
+**Why did it fail?**  
+**Where did it fail?**  
+**What caused it?**  
+**Is it a product defect, environment issue, test issue, or dependency problem?**  
+**What could be the impact on users?**
 
-### Technologies
+## Technologies
 
-**AWS CloudWatch · Azure · Datadog · Kibana · Browser DevTools · Webhooks**
+`AWS CloudWatch` `Azure` `Datadog` `Kibana` `Browser DevTools` `Webhooks`
 
-I use logs, API payloads, monitoring data, browser developer tools, and application behavior to support troubleshooting and root-cause analysis.
+I use **logs, API payloads, monitoring data, browser developer tools, and application behavior** to investigate problems and support root-cause analysis.
 
-AI adds another layer by helping engineers **summarize, correlate, compare, and reason about large volumes of diagnostic information**.
+AI can add another layer here by helping engineers **summarize, correlate, compare, and analyze large amounts of diagnostic information**.
 
 ---
 
@@ -198,17 +243,17 @@ AI adds another layer by helping engineers **summarize, correlate, compare, and 
 
 I strongly believe in a **shift-left quality mindset**.
 
-QA shouldn't begin when someone says:
+QA shouldn't start when someone says:
 
 > *"The ticket is ready for testing."*
 
 Quality starts much earlier.
 
-### Quality Lifecycle
+## Quality Lifecycle
 
 **Requirements → Acceptance Criteria → Design → Risk Assessment → Development → Testing → CI/CD → Production**
 
-AI can support this process by helping teams identify:
+AI can help teams identify:
 
 * Ambiguous requirements
 * Missing acceptance criteria
@@ -219,15 +264,15 @@ AI can support this process by helping teams identify:
 * Integration risks
 * Potential failure modes
 
-The earlier risks are identified, the cheaper and easier they are to address.
+Getting these things right earlier can save a lot of time later.
 
 ---
 
-# 🗄️ Data & Backend Validation
+# 🗄️ Data and Backend Validation
 
-### Technologies
+## Technologies
 
-**SQL · MySQL · MongoDB**
+`SQL` `MySQL` `MongoDB`
 
 I use database validation for:
 
@@ -238,32 +283,33 @@ I use database validation for:
 * End-to-end testing
 * Production investigation
 
-I'm also interested in using AI to accelerate data analysis and help identify inconsistencies across complex application workflows.
+I'm also interested in using AI to **speed up data analysis and identify inconsistencies across complex application workflows**.
 
 ---
 
-# ⚡ Performance & Security
+# ⚡ Performance and Security
 
 ## Performance Testing
 
 ### Technologies
 
-**JMeter · Postman**
+`Grafana k6` `JMeter` `Postman`
 
-I use performance-testing techniques to identify:
+My performance testing experience focuses on identifying:
 
 * Bottlenecks
 * Reliability issues
 * Performance degradation
 * Scalability concerns
+* API performance issues
 
 ## Security Testing
 
 ### Technologies
 
-**OWASP ZAP · WIZ**
+`OWASP ZAP` `WIZ`
 
-Security validation is an important part of modern quality engineering, particularly as applications become increasingly distributed and AI becomes more deeply integrated into software products.
+Security is another important part of modern quality engineering, especially as applications become more distributed and AI becomes more deeply integrated into software products.
 
 ---
 
@@ -275,7 +321,11 @@ Security validation is an important part of modern quality engineering, particul
 
 ## AI & Developer Tools
 
-`ChatGPT` `Claude` `Cursor` `GitHub Copilot` `MCP` `CLI Tools`
+`Claude Code` `Codex (ChatGPT)` `ChatGPT` `Claude` `Cursor` `GitHub Copilot` `MCP` `CLI Tools`
+
+## AI Testing & Evaluation
+
+`Promptfoo` `DeepEval`
 
 ## UI & Mobile Automation
 
@@ -283,7 +333,7 @@ Security validation is an important part of modern quality engineering, particul
 
 ## API & Backend Testing
 
-`Postman` `REST Assured` `SuperTest` `Swagger / OpenAPI`
+`Postman` `REST Assured` `SuperTest` `Grafana k6` `Swagger / OpenAPI`
 
 ## Test Frameworks
 
@@ -303,7 +353,7 @@ Security validation is an important part of modern quality engineering, particul
 
 ## Performance & Security
 
-`JMeter` `OWASP ZAP` `WIZ`
+`JMeter` `Grafana k6` `OWASP ZAP` `WIZ`
 
 ## QA & Collaboration
 
@@ -324,14 +374,15 @@ I'm exploring how AI can help QA teams:
 * 🎭 Accelerate automation development
 * 🔍 Discover edge cases
 * 🐛 Investigate failures faster
-* ♻️ Reduce test-maintenance effort
+* ♻️ Reduce test maintenance
 * 📊 Analyze test results
 * 🔌 Improve API testing
+* 🧠 Evaluate AI-powered applications
 * 📝 Improve QA documentation
 * 🤖 Build smarter QA workflows and AI-assisted agents
 * 🚀 Create faster and more meaningful feedback loops
 
-But I'm not interested in **AI for the sake of AI**.
+I'm not interested in **AI for the sake of AI**.
 
 I'm interested in **practical AI that improves software quality, engineering efficiency, and product reliability**.
 
@@ -343,11 +394,11 @@ I don't believe AI will eliminate the need for QA engineers.
 
 I believe it will change **what great QA engineers spend their time doing**.
 
-### Less Time On
+## Less Time On
 
-**Repetitive execution · Boilerplate · Manual analysis · Test maintenance**
+**Repetitive Execution · Boilerplate · Manual Analysis · Test Maintenance**
 
-### More Time On
+## More Time On
 
 **Risk · Strategy · Investigation · Architecture · Product Thinking · User Behavior · Quality Decisions**
 
@@ -367,49 +418,50 @@ That's the direction I want to grow in.
 
 For me, great QA combines:
 
-### 🧠 Critical Thinking
+## 🧠 Critical Thinking
 
 Question assumptions, challenge expected behavior, and look beyond the obvious.
 
-### 🔍 Curiosity
+## 🔍 Curiosity
 
-Investigate what happens beyond the happy path and understand why systems behave the way they do.
+Explore what happens beyond the happy path and understand why systems behave the way they do.
 
-### 🎯 Risk Awareness
+## 🎯 Risk Awareness
 
-Focus testing effort where failure has the greatest impact.
+Focus testing effort where failure could have the greatest impact.
 
-### ⚙️ Technical Expertise
+## ⚙️ Technical Expertise
 
 Use automation, APIs, code, cloud platforms, databases, and observability effectively.
 
-### 🤖 AI Leverage
+## 🤖 AI Leverage
 
-Use AI intelligently to accelerate repetitive work, expand testing possibilities, and improve engineering decisions.
+Use AI intelligently to accelerate repetitive work, explore more testing possibilities, and improve engineering decisions.
 
-### 🤝 Collaboration
+## 🤝 Collaboration
 
 Build quality together with developers, product managers, designers, and other stakeholders.
 
-### 📊 Data-Driven Decisions
+## 📊 Data-Driven Decisions
 
-Use evidence, telemetry, and test results rather than assumptions to understand product quality.
+Use evidence, telemetry, and test results instead of assumptions to understand product quality.
 
 ---
 
 # 📫 Let's Connect
 
-I'm interested in conversations around:
+I'm always interested in conversations around:
 
-🤖 **AI in QA & Quality Engineering**
-🧪 **AI-Assisted Test Automation**
-🎭 **Playwright & Automation Engineering**
-🔌 **API & Backend Testing**
-🔄 **CI/CD & Quality Gates**
-☁️ **Cloud & Observability**
-🔍 **Software Quality & Risk**
-🧠 **AI Agents & QA Workflows**
-💡 **The Future of Quality Engineering**
+* 🤖 **AI in QA and Quality Engineering**
+* 🧪 **AI-Assisted Test Automation**
+* 🎭 **Playwright and Automation Engineering**
+* 🔌 **API and Backend Testing**
+* 🧠 **Testing and Evaluating AI Applications**
+* 🔄 **CI/CD and Quality Gates**
+* ☁️ **Cloud and Observability**
+* 🔍 **Software Quality and Risk**
+* 🤖 **AI Agents and QA Workflows**
+* 💡 **The Future of Quality Engineering**
 
 ---
 
