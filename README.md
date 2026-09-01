@@ -12,8 +12,6 @@ I'm especially interested in the intersection of:
 
 **🤖 Artificial Intelligence × 🧪 Quality Engineering × ⚙️ Test Automation**
 
-I see AI as a powerful tool for QA engineers. I don't see it as a replacement for testing expertise. Instead, I believe it can help us **explore more possibilities, automate repetitive work, investigate problems faster, and make better quality decisions**.
-
 ---
 
 # 🤖 AI-Driven Quality Engineering
