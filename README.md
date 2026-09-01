@@ -50,14 +50,6 @@ I've used AI-assisted development and testing tools to help with:
 * Code and framework refactoring
 * Improving engineering productivity
 
-For me, AI is not just about asking:
-
-> *"Can you write this test for me?"*
-
-The more interesting question is:
-
-> **"How can AI help me think better about quality?"**
-
 ---
 
 # 🧠 Testing AI-Driven Applications
